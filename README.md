@@ -1,9 +1,5 @@
-# Scraper
-Tools for scraping information from market-places. Link for tutorial download [here](https://github.com/TheWorkingBee/Scraper/blob/main/Report/report.html)
+# Scraper: Tools for scraping information from market-places. 
+These tools were made as a school project. To describe the project, rstudio was used to knit the file report.html. The file contains an introduction to webb-scraping and an example analysis where blocket was scraped. 
 
-<a href="https://github.com/TheWorkingBee/Scraper/raw/main/Report/report.html" download>Click to Download</a>
-<br><a href="https://raw.githubusercontent.com/TheWorkingBee/Scraper/main/Report/report.html?token=AT326DRPU64QGZIMRP3OCZDAREXI4" target="_blank" download>Penisar</a>
-
-<a href="https://github.com/TheWorkingBee/Scraper/blob/main/Report/report.html" download>Click to Download</a>
-
-<a id="raw-url" href="https://raw.githubusercontent.com/TheWorkingBee/Scraper/main/Report/report.html?token=AKXNYFHW57H6M2F4LRMKY3TAREVIC">Download FILE</a>
+## Viewing the report
+As the report contains an interactive map, it could not be output as a github document. Hence the files raw content has to be saved to a html file (ctr-s) from (here)["https://raw.githubusercontent.com/TheWorkingBee/Scraper/main/Report/report.html?token=AKXNYFCRJ2SQYENRJBLZOALAREYTQ"]. If that seems to inconvenient, a less formatted/interactive pdf version can be found here.
